@@ -16,4 +16,5 @@ function myFunction1(xhttp) {
 }
 function myFunction2(xhttp) {
     // action goes here
+    //test code by Ruchi
 }
